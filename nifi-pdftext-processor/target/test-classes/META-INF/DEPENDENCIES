@@ -1,0 +1,37 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-pdftext-processor
+
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-api (http://nifi.apache.org/nifi-api) org.apache.nifi:nifi-api:jar:0.5.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (http://nifi.apache.org/nifi-commons/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:0.5.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:0.5.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:0.5.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://pdfbox.apache.org)
+  - Apache FontBox (http://pdfbox.apache.org/) org.apache.pdfbox:fontbox:bundle:1.8.11
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache JempBox (http://www.apache.org/pdfbox-parent/jempbox/) org.apache.pdfbox:jempbox:bundle:1.8.11
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache PDFBox (http://www.apache.org/pdfbox-parent/pdfbox/) org.apache.pdfbox:pdfbox:bundle:1.8.11
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
